@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-pungkas.github.io/pung-2/sitemap.xml
